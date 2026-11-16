@@ -2,3 +2,5 @@ Este livro é um diário de bordo do git ......
 
 
 acrescentei uma linha no prefacio.
+
+alterado dentro do github
